@@ -1,0 +1,13 @@
+numpy
+scipy
+
+jupyter
+pandas
+ipykernel
+
+sklearn
+
+matplotlib
+seaborn
+
+sklearn-pandas
